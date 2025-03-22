@@ -40,7 +40,7 @@ def greetings():
         speak('Good evening sir')
     else:
         speak('Good night sir')
-    speak('I am at your service. How can I help you today?')
+    speak('Hello sir I am RIO for your service, How can I help you?')
 
 def take_command():
     r = sr.Recognizer()
